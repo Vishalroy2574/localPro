@@ -1,7 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aditya4332/RojgarSetu/main/assets/rojgar-setu-banner.png" alt="Rojgar Setu Banner" width="100%">
-</p>
 
 <h1 align="center">🚀 Rojgar Setu</h1>
 
@@ -9,12 +6,6 @@
   <b>Connecting people with trusted home service professionals — Anytime, Anywhere.</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/aditya4332/RojgarSetu/stargazers"><img src="https://img.shields.io/github/stars/aditya4332/RojgarSetu" alt="Stars Badge"></a>
-  <a href="https://github.com/aditya4332/RojgarSetu/network/members"><img src="https://img.shields.io/github/forks/aditya4332/RojgarSetu" alt="Forks Badge"></a>
-  <a href="https://github.com/aditya4332/RojgarSetu/issues"><img src="https://img.shields.io/github/issues/aditya4332/RojgarSetu" alt="Issues Badge"></a>
-  <a href="https://github.com/aditya4332/RojgarSetu/graphs/contributors"><img src="https://img.shields.io/github/contributors/aditya4332/RojgarSetu" alt="Contributors Badge"></a>
-</p>
 
 ---
 
@@ -46,9 +37,3 @@ The platform aims to create a **digital ecosystem for local job providers**, ena
 
 ---
 
-## 🚀 Getting Started
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/aditya4332/RojgarSetu.git
-cd RojgarSetu
