@@ -9,7 +9,7 @@ dotenv.config(); // Load environment variables
 const app = express()
 app.use(express.json())
 app.use(cors())
-// mongoose.connect("mongodb+srv://adityasinghytm_db_user:UcQk8uqFW6Wlzabl@cluster0.paq5aed.mongodb.net/")
+
 
 // Connect to MongoDB using .env variable
 mongoose.connect(process.env.MONGO_URI)
