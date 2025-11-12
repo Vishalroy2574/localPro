@@ -1,39 +1,18 @@
-<!-- Banner -->
+# 🧑‍💼 Rojgar Setu
 
-<h1 align="center">🚀 Rojgar Setu</h1>
+**Rojgar Setu** is a full-stack web application that bridges the gap between **client** and **local employers**.  
+It simplifies the hiring process by allowing users to **search, and apply** based on their skills and location.
 
-<p align="center">
-  <b>Connecting people with trusted home service professionals — Anytime, Anywhere.</b>
-</p>
+## 🚀 Features
+- 👤 Secure login/signup
+- 🌐 Fully responsive and user-friendly UI  
 
+## 🛠️ Tech Stack
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB (Mongoose)  
 
----
-
-## 📖 About the Project
-
-**Rojgar Setu** is a full-stack web application that bridges the gap between service providers and customers by offering a seamless platform to **book, manage, and rate home services**.
-
-The platform aims to create a **digital ecosystem for local job providers**, enabling quick and reliable access to essential services.
-
----
-
-## ⚙️ Tech Stack
-
-| Category | Technologies |
-|-----------|---------------|
-| Frontend | React.js, HTML5, CSS3, JavaScript |
-| Backend | Node.js, Express.js |
-| Database | MongoDB |
-| Tools | Git, GitHub, VS Code, Postman |
+## 🎯 Objective
+To build a digital platform that promotes **local employment opportunities** and helps connect **skilled individuals** with **nearby businesses** efficiently.
 
 ---
-
-## ✨ Features
-
-✅ User-friendly booking interface  
-✅ Real-time service availability  
-✅ Responsive UI (mobile-friendly)  
-✅ Contact form powered by Formspree  
-
----
-
