@@ -22,7 +22,8 @@ const stateCity = {
   Delhi: ["New Delhi", "South Delhi", "North Delhi"],
 };
 
-const formspreeUrl = "https://formspree.io/f/xnndyrjw";
+const formspreeUrl = import.meta.env.VITE_FORMSPREE_URL
+
 
 function Home() {
   const [selectedService, setSelectedService] = useState(null);

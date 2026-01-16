@@ -3,7 +3,7 @@ import React from "react";
 export default function Header() {
   return (
     <header>
-      <h1>🏠 Rojgar-Setu</h1>
+      <h1>🏠 LocalPro</h1>
       <nav>
         <a href="#services">Services</a>
         <a href="#about">About</a>
